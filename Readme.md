@@ -21,16 +21,17 @@ App is simple and has:
 ## Libraries
 
 
-React-Navigation + Stack: https://redux-toolkit.js.org/
+React-Navigation + Stack: https://reactnavigation.org/docs/getting-started
 
 
-React-Native-Reanimated: https://www.npmjs.com/package/react-native-snackbar
+React-Native-Reanimated: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/
+
 
 
 <div align="center">
-<video width="640" height="360" controls>
-    <source src="https://github.com/carloscazelattojr/login-ui-app/blob/main/src/asset/app.mp3" type="video/mp4">
-    Seu navegador não suporta o elemento de vídeo.
-</video>
+ 
+https://github.com/carloscazelattojr/login-ui-app/assets/9617737/c8f37ab7-01d6-4684-aca3-0b3664493aac
+
+ 
  
 </div>

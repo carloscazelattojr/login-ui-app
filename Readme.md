@@ -23,11 +23,18 @@ App is simple and has:
 
 React-Navigation + Stack: https://reactnavigation.org/docs/getting-started
 
-
 React-Native-Reanimated: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/
 
 
+## Screen
 
+<div align="center">
+  <a href="#">
+     <img src="https://github.com/carloscazelattojr/login-ui-app/blob/main/assets/print-app.png" width="800" alt="preview" />
+  </a>
+</div> 
+
+<br> <hr>
 <div align="center">
  
 https://github.com/carloscazelattojr/login-ui-app/assets/9617737/c8f37ab7-01d6-4684-aca3-0b3664493aac
